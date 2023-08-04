@@ -1,0 +1,8 @@
+[
+  {
+    "botName" : "1",
+    "botToken" : "123123",
+    "apiUrl" : "https://cactus.tools/dayz/servers?filter=Basically%20Vanilla%20%231",
+    "pattern" : "%time %maxPlayers/%numPlayers(+%queue)"
+  }
+]
